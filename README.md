@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-'''
+```
 import matplotlib.pyplot as plt
 x1=[1,2,3]
 y1=[2,4,1]
@@ -31,7 +31,7 @@ plt.ylabel('y-axis')
 plt.title('Two lines on same graph!')
 plt.legend()
 plt.show()
-'''
+```
 ![image](https://github.com/user-attachments/assets/1bff390d-1e13-4130-a4c0-bf206ab6777c)
 
 '''
